@@ -15,7 +15,7 @@ Use your existing username and password to login.
 
 ### Products
 
-User can view, edit and delete existing products that you have placed on the website.
+User can view, edit and delete existing products that are placed on the website by them.
 
 ![Screenshot 2021-03-29 191243](https://user-images.githubusercontent.com/42413316/112944113-04456500-9150-11eb-8bc0-61b42bf02190.png)
 
